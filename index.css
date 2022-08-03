@@ -74,12 +74,10 @@ h6 {
   font-weight: 400;
 }
 /*--------------------*/
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }
 .container {
-  font-family: "Azeret Mono", monospace;
-  font-family: "Inter", sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
